@@ -1,3 +1,6 @@
 [submodule "software"]
 	path = software
 	url = https://github.com/jordan-s-ramirez/microControllerGreens.git
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/zcawood333/microControllerGreensHardware.git
